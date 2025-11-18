@@ -1,0 +1,7 @@
+C:\Users\Mali gramzljivi\source\repos\papir,kamen,makaze\papir,kamen,makaze\bin\Debug\papir,kamen,makaze.exe.config
+C:\Users\Mali gramzljivi\source\repos\papir,kamen,makaze\papir,kamen,makaze\bin\Debug\papir,kamen,makaze.exe
+C:\Users\Mali gramzljivi\source\repos\papir,kamen,makaze\papir,kamen,makaze\bin\Debug\papir,kamen,makaze.pdb
+C:\Users\Mali gramzljivi\source\repos\papir,kamen,makaze\papir,kamen,makaze\obj\Debug\papir,kamen,makaze.csproj.AssemblyReference.cache
+C:\Users\Mali gramzljivi\source\repos\papir,kamen,makaze\papir,kamen,makaze\obj\Debug\papir,kamen,makaze.csproj.CoreCompileInputs.cache
+C:\Users\Mali gramzljivi\source\repos\papir,kamen,makaze\papir,kamen,makaze\obj\Debug\papir,kamen,makaze.exe
+C:\Users\Mali gramzljivi\source\repos\papir,kamen,makaze\papir,kamen,makaze\obj\Debug\papir,kamen,makaze.pdb
